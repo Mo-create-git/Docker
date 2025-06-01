@@ -1,0 +1,23 @@
+Docker is nothing but a software kind of things where it solves the problem where we get to listen that the application the developer had made , that software doesn't work on my my computer but it run's perfectly on yours.
+Docker is open source.
+Docker is mainly used to make apps,help in deployment of the project.
+Docker is also used to make a virtual machine and to create a virtual ennvironment,
+
+-virtualization & containerization.
+virtualization-Virtualization traditionally means creating virtual machines (VMs) that run on a hypervisor, allowing multiple OS instances to run on one physical machine.
+
+-containerization
+Containerization in Docker is the process of packaging an application and all its dependencies into a single, isolated unit called a container. This allows the application to run reliably across different environments.
+ 
+difference between virtualization and containerization.
+Virtualization
+Runs multiple virtual computers (VMs) on one physical machine.
+Containerization
+Runs multiple apps in isolated boxes (containers) on one OS.
+Virtualization
+Containerization
+Uses a hypervisor to run virtual machines, each with its own OS.
+Uses Docker engine to run containers that share the same OS kernel.
+Each VM has its own OS + app.
+Each container has just the app + its dependencies.
+

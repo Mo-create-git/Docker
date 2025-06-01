@@ -1,0 +1,11 @@
+step1:
+create a account on docker.
+
+step2:
+download docker on your os.
+and then sign up with your created acc on the docker.
+
+step3:
+then integrate it with your terminal.
+
+

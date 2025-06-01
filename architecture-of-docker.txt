@@ -1,0 +1,17 @@
+Docker architecture:
+Docker engine :-
+it runs all containers.
+
+Docker Daemon:-
+manages all containers.
+Container D is used make containers and manage these containers.
+
+Docker CLI:-
+CLI(Command line interface)
+these container commands are made through cli.
+
+Docker Client:-
+Docker client connects api's {application program interface.}
+
+so now let's Docker (;
+
