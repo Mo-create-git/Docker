@@ -1,0 +1,4 @@
+to store in image in docker we need to write docker intructions!
+for ex: let's run a java project.
+for running a java project we need first write the instructions for the project ans creates an environment.
+
